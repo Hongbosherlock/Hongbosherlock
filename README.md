@@ -1,7 +1,13 @@
 ### 
 Hi, I'm Hongbosherlock. 
 
-I'm a student from the University of China Academy of Sciences.
+- 📖 I graduated from the University of Chinese Academy of Sciences
+- 🔭 I’m currently focusing on inference and compression of LLM (quantization, pruning).
+- 🌱 I’m currently learning CUDA and C++.
+- 👯 I’m looking to collaborate on LLM infra.
+- 💬 Ask me about LLM quantization and inference.
+- 📫 How to reach me: hongbosherlock@gmail.com
+- ⚡ Fun fact: I am an amateur photographer📷. My work can be found at: https://photo.leoneo.top
 
 <img src="https://komarev.com/ghpvc/?username=Hongbosherlock" alt="Hongbosherlock" />
 
