@@ -1,6 +1,4 @@
-### 
-
-Hi there 👋
+### Hi there 👋
 
 - 💼 LLM Inference Optimization Engineer at Baidu, focusing on **distributed serving** and **quantization**.
 - 🛠 Stack: PyTorch, CUDA/CUTLASS, nsys/ncu
