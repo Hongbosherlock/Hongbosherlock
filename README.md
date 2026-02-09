@@ -4,8 +4,8 @@
 - 🛠 Stack: PyTorch, CUDA/CUTLASS, nsys/ncu
 - 🧑‍💻  Open-source contributor: **SGLang / vLLM** — focusing on [PD disaggregation](https://github.com/sgl-project/sglang/pull/6793) & [Quantization](https://github.com/sgl-project/sglang/pull/8113).
 - 📖 Selected posts: [DeepSeek FP8 Block-wise Quantization Explained](https://zhuanlan.zhihu.com/p/20269638568)
-- 📷 Fun fact: I am an amateur photographer📷. My work can be found at: https://photo.leoneo.top
-- 🤝 Always happy to collaborate on **LLM infra**: serving, kernels, quantization, and distributed inference.
+- 📷 I am an amateur photographer📷. My work can be found at: https://photo.leoneo.top
+- 🤝 Always happy to collaborate on LLM infra.
 - 📫 Contact: hongbosherlock@gmail.com | [Homepage](https://www.leoneo.top) 
 
 
